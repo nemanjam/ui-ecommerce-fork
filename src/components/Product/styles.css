@@ -1,0 +1,24 @@
+.card-product {
+    margin-bottom: 1rem;
+}
+.card .img-wrap {
+    overflow: hidden;
+}
+.card-product .img-wrap {
+    border-radius: 0.2rem 0.2rem 0 0;
+    overflow: hidden;
+    position: relative;
+    height: 220px;
+    text-align: center;
+}
+.card-product .title {
+    margin-top: 0;
+}
+.card-product .action-wrap {
+    padding-top: 4px;
+    margin-top: 4px;
+}
+.price-new,
+.price {
+    margin-right: 5px;
+}
